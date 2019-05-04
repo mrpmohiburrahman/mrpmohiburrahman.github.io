@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "মনডা ভালা নি"
+author: "MRP"
 description: "Really cool blog about ... something"
 lang: "en"
 
@@ -33,7 +33,7 @@ comments:                    # embed disqus or isso comments
 #  disqus: ""
 #  isso: ""
 
-plugins: 
+plugins:
  - jekyll-feed
  - jekyll-paginate
  - jekyll-default-layout
