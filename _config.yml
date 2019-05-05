@@ -21,7 +21,7 @@ navigation:                  # (optional) site navigation in the header
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/niklasbuschmann/contrast"
+  github: "https://github.com/MD-MRP"
   rss: "/contrast/feed.xml"
 
 # Pagination
