@@ -21,7 +21,7 @@ navigation:                  # (optional) site navigation in the header
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/MD-MRP"
+  github: "https://github.com/mrpmohiburrahman"
   rss: "/contrast/feed.xml"
   facebook: "https://www.facebook.com/profile.php?id=100011046964179"
 
