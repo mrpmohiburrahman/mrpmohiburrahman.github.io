@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Wonderer</title><link>https://mrpmohiburrahman.github.io/post/</link><description>Recent content in Posts on Wonderer</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 19 Nov 2022 15:24:34 +0600</lastBuildDate><atom:link href="https://mrpmohiburrahman.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Gallery</title><link>https://mrpmohiburrahman.github.io/p/my-first-gallery/</link><pubDate>Sat, 19 Nov 2022 15:24:34 +0600</pubDate><guid>https://mrpmohiburrahman.github.io/p/my-first-gallery/</guid><description>&lt;p>&lt;img src="https://mrpmohiburrahman.github.io/p/my-first-gallery/banner1.jpg"
+width="6945"
+height="4635"
+srcset="https://mrpmohiburrahman.github.io/p/my-first-gallery/banner1_hu846a3c1158270cbea6bf517423df1606_3790400_480x0_resize_q75_box.jpg 480w, https://mrpmohiburrahman.github.io/p/my-first-gallery/banner1_hu846a3c1158270cbea6bf517423df1606_3790400_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>&lt;/p>
+&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted --></description></item><item><title>My First Post</title><link>https://mrpmohiburrahman.github.io/p/my-first-post/</link><pubDate>Sat, 19 Nov 2022 13:12:17 +0600</pubDate><guid>https://mrpmohiburrahman.github.io/p/my-first-post/</guid><description>&lt;p>&lt;img src="https://mrpmohiburrahman.github.io/p/my-first-post/banner.jpg"
+width="6945"
+height="4635"
+srcset="https://mrpmohiburrahman.github.io/p/my-first-post/banner_hu846a3c1158270cbea6bf517423df1606_3790400_480x0_resize_q75_box.jpg 480w, https://mrpmohiburrahman.github.io/p/my-first-post/banner_hu846a3c1158270cbea6bf517423df1606_3790400_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Image 1"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>&lt;/p>
+&lt;h1 id="hello-world">hello world&lt;/h1>
+&lt;p>how are you&lt;/p></description></item></channel></rss>
