@@ -1,6 +1,6 @@
 baseURL: "https://mohiburrahman.me/"
 languageCode: en-us
-theme: themeStack
+theme: hugoThemeStack
 paginate: 5
 title: Wonderer
 
