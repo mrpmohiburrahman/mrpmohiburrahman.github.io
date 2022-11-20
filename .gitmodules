@@ -1,6 +1,3 @@
 [submodule "themes/themeStack"]
 	path = themes/themeStack
-	url = git@github.com:CaiJimmy/hugo-theme-stack.git
-[submodule "hugo-theme-stack"]
-	path = hugo-theme-stack
-	url = git@github.com:mrpmohiburrahman/hugo-theme-stack.git
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
