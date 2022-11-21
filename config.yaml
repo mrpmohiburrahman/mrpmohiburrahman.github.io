@@ -8,7 +8,7 @@ languages:
   en:
     languageName: English
     title: Wonderer
-    description: Example description
+    description: wondering about wonderful things
     weight: 1
   # bn:
   #   languageName: বাংলা
